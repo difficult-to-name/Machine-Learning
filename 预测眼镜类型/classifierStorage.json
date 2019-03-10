@@ -1,0 +1,33 @@
+{
+   "tearRate": {
+      "normal": {
+         "astigmatic": {
+            "yes": {
+               "prescript": {
+                  "myope": "hard",
+                  "hyper": {
+                     "age": {
+                        "pre": "no lenses",
+                        "young": "hard",
+                        "presbyopic": "no lenses"
+                     }
+                  }
+               }
+            },
+            "no": {
+               "age": {
+                  "pre": "soft",
+                  "young": "soft",
+                  "presbyopic": {
+                     "prescript": {
+                        "myope": "no lenses",
+                        "hyper": "soft"
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "reduced": "no lenses"
+   }
+}
